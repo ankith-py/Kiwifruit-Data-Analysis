@@ -7,4 +7,8 @@ significant, the temperature factor is completely excluded in the reduced model.
 
 Contour plots and 3D diagrams are produced to visualize the relationship among predictors and our response variable, 'Firmness'.
 
-Please note that these conclusions should not be extended beyond the scope of this research paper.
+![image](https://github.com/ankith-py/Kiwifruit-Data-Analysis/assets/87325426/4fb3402f-0ac7-4fc6-8cdc-7beae7157f19)
+
+![image](https://github.com/ankith-py/Kiwifruit-Data-Analysis/assets/87325426/fd4d8788-a3a9-4c73-9365-af24e04bddd5)
+
+**Please note that these conclusions should not be extended beyond the scope of this research paper.**
