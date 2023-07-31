@@ -1,4 +1,4 @@
-# Kiwifruit-Data-Analysis
+# Kiwifruit Secondary Data Analysis
 Secondary data analysis conducted on the "Firmness" variable on the research paper titled "Optimization of Postharvest Ultrasonic Treatment of Kiwifruit using RSM" by K. Vivek, K.V. Subbarao, &amp; B. Srivastava
 
 A full second order polynomial regression model was created with all terms (first order, two-way interaction, pure quadratic) as shown by the
